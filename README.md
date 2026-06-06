@@ -47,4 +47,3 @@ This project demonstrates a real-time data streaming pipeline using PySpark Stru
 - AWS Kinesis Integration
 - Real-time dashboards
 - Cloud deployment using AWS
-- 
